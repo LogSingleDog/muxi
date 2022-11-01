@@ -1,0 +1,10 @@
+114.txt
+dir1
+dir2
+dir3
+dir4
+dir5
+folder 1
+folder 2
+output.txt
+test_1.txt
